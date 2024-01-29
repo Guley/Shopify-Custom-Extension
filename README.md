@@ -6,6 +6,10 @@ This is a template for building a [Shopify app](https://shopify.dev/docs/apps/ge
 
 Whether you choose to use this template or another one, you can use your preferred package manager and the Shopify CLI with [these steps](#installing-the-template).
 
+## Sample Video
+
+[Sample video](https://www.awesomescreenshot.com/video/24441448?key=546c613126f82fbe316574f3e782fe85)
+
 ## Benefits
 
 Shopify apps are built on a variety of Shopify tools to create a great merchant experience. The [create an app](https://shopify.dev/docs/apps/getting-started/create) tutorial in our developer documentation will guide you through creating a Shopify app.
